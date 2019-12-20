@@ -1,2 +1,4 @@
 - Getting Started
   - [Overview](README.md)
+- [Contributing](CONTRIBUTING.md)
+- [Changelog](CHANGELOG.md)
