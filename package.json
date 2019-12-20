@@ -1,0 +1,34 @@
+{
+  "name": "kapian.io",
+  "version": "1.0.0",
+  "description": "如何使用卡片进行内容创作?",
+  "main": "index.js",
+  "scripts": {
+    "docs:serve": "docsify serve ./docs",
+    "docs:publish": "gh-pages --dist docs --dotfiles --message 'chore: Publish docs'",
+    "release:version": "lerna version",
+    "release:publish": "lerna publish from-git",
+    "postrelease:publish": "yarn docs:publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackdapp/kapian.io.git"
+  },
+  "keywords": [
+    "write",
+    "card",
+    "creative"
+  ],
+  "author": "hackdapp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackdapp/kapian.io/issues"
+  },
+  "homepage": "https://github.com/hackdapp/kapian.io#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.0",
+    "gh-pages": "^2.1.1",
+    "lerna": "^3.19.0",
+    "prettier": "^1.19.1"
+  }
+}
