@@ -7,4 +7,11 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
+* Add husky, commitlint ([526f7d9](https://github.com/hackdapp/kapian.io/commit/526f7d9c59a86fca40b4f2de0f22b9f36e18a397))
+
+## 1.1.0 (2019-12-20)
+
+
+### Features
+
 * Add husky, commitlint ([eb0a84f](https://github.com/hackdapp/kapian.io/commit/eb0a84f9652cd908f9f7dd14d004a4df786bc129))
