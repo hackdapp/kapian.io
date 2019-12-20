@@ -4,14 +4,12 @@
 
 ![logo](assets/images/logo.png)
 
-> Record, replay, and stub HTTP interactions.
+> 卡片创作: 用一张卡片，完成一次最小内容创作。
 
-- 🚀 Node & Browser Support
-- ⚡️️ Simple, Powerful, & Intuitive API
-- 💎 First Class Mocha & QUnit Test Helpers
-- 🔥 Intercept, Pass-Through, and Attach Events
-- 📼 Record to Disk or Local Storage
-- ⏱ Slow Down or Speed Up Time
+- 写术语
+- 写人物
+- 写隐喻
+- 写灵感
 
 <div class="buttons">
   <a href="#/README"><span>Get Started</span></a>
