@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"docs:serve": "docsify serve ./docs",
-		"docs:publish": "gh-pages --repo git@github.com:hackdapp/kapian.io.git -u hackdapp hackdapp@gmail.com --dist docs --dotfiles --message 'chore: Publish docs'",
+		"docs:publish": "gh-pages --repo git@github.com:hackdapp/kapian.io.git -u hackdapp <hackdapp@gmail.com> --dist docs --dotfiles --message 'chore: Publish docs'",
 		"release": "npm-run-all \"docs:publish {@}\" release:publish --",
 		"release:publish": "standard-version"
 	},
