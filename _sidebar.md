@@ -1,5 +1,10 @@
 - Getting Started
   - [Overview](README.md)
-- 卡片小库
+- Anki 资源
+  - [软件](anki/software.md)
+  - [插件](anki/addon.md)
+  - [卡片主题](anki/theme.md)
+  - [卡片包](anki/deck.md)
+  - [软件手册](https://docs.ankiweb.net/#/)
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
