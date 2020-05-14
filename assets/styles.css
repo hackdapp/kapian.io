@@ -97,7 +97,7 @@ section.cover.show~.sidebar-toggle {
 .cover-main .netflix-logo .logo {
     width: 125px;
     height: 32px;
-    background: url('images/HackDApp_Logo.png');
+    /* background: url('images/HackDApp_Logo.png'); */
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
