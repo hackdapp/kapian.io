@@ -1,14 +1,16 @@
 - Getting Started
   - [Overview](README.md)
 - 卡片仓库
-  - [写作卡片](cards/write/write.md)
-  - [技术卡片]()
-  - [英语语法]()
+  - [认知卡片](cards/meta/index.md)
+  - [产品卡片](cards/product/index.md)
+  - [技术卡片](cards/tech/index.md)
+  - [写作卡片](cards/write/index.md)
+  - [技能卡片](cards/skill/index.md)
 - Anki 资源
-  - [软件](anki/software.md)
-  - [插件](anki/addon.md)
+  - [卡片软件](anki/software.md)
+  - [卡片插件](anki/addon.md)
   - [卡片主题](anki/theme.md)
-  - [卡片包](anki/deck.md)
+  - [卡片仓库](anki/deck.md)
   - [软件手册](https://docs.ankiweb.net/#/)
 - [Contributing](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
