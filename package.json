@@ -4,6 +4,7 @@
 	"description": "如何使用卡片进行内容创作?",
 	"main": "index.js",
 	"scripts": {
+    "test": "echo no testcase.",
 		"docs:serve": "docsify serve ./docs",
 		"docs:publish": "gh-pages --repo git@github.com:hackdapp/kapian.io.git -u 'hackdapp <hackdapp@gmail.com>' --dist docs --dotfiles --message 'chore: Publish docs'",
 		"release": "npm-run-all \"docs:publish {@}\" release:publish --",
