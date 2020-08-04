@@ -22,12 +22,12 @@ before_deploy:
   - ssh-add /tmp/deploy_rsa
 
 deploy:
-  - provider: script
-    cleanup: true
-    script:
-      - commitlint-travis
-    on:
-      branch: master
+  # - provider: script
+  #   cleanup: true
+  #   script:
+  #     - commitlint-travis
+  #   on:
+  #     branch: master
   - provider: script
     cleanup: true
     script:
