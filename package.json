@@ -46,12 +46,13 @@
 		"@commitlint/cli": "^8.2.0",
 		"@commitlint/config-conventional": "^8.2.0",
 		"@commitlint/travis-cli": "^8.2.0",
-		"docsify-cli": "^4.4.0",
-		"gh-pages": "^2.1.1",
-		"husky": "^3.1.0",
-		"lint-staged": "^9.5.0",
+		"docsify-cli": "^4.4.1",
+		"gh-pages": "^3.1.0",
+		"husky": "^4.2.5",
+		"lint-staged": "^10.2.11",
 		"npm-run-all": "^4.1.5",
 		"prettier": "^1.19.1",
-		"standard-version": "^7.0.1"
+    "standard-version": "^8.0.1",
+    "dot-prop": "^5.1.1"
 	}
 }
