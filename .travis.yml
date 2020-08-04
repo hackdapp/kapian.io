@@ -29,7 +29,7 @@ deploy:
   #   on:
   #     branch: master
   - provider: script
-    cleanup: true
+    skip_cleanup: true
     script:
       - yarn run docs:publish
     on:
