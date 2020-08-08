@@ -31,6 +31,7 @@
 
 ## 最新卡片
 
+- [精要主义 20200808](https://kapian.io/#/articles/20200808) | [#思维认知](https://kapian.io/#/cards/meta/index)
 - [回转反复 20200807](https://kapian.io/#/articles/20200807) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [单例设计模式 20200806](https://kapian.io/#/articles/20200806) | [#技术卡片](https://kapian.io/#/cards/tech/index)
 - [如何通过对比手法增强表达效果? 20200805](https://kapian.io/#/articles/20200805) | [#写作卡片](https://kapian.io/#/cards/write/index)
