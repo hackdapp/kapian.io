@@ -38,6 +38,8 @@
 - [如何通过对比手法增强表达效果? 20200805](https://kapian.io/#/articles/20200805) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [如何运用反向思考力? 20200804](https://kapian.io/#/articles/20200804) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [如何用具体的东西表示抽象? 20200803](https://kapian.io/#/articles/20200803) | [#写作卡片](https://kapian.io/#/cards/write/index)
+- [如何使用精要主义指导生活？20200623](https://kapian.io/#/articles/20200623) | [#思维认知](https://kapian.io/#/cards/meta/index)
+- [6 个写作小套路? 20200515](https://kapian.io/#/articles/20200515) | [#写作卡片](https://kapian.io/#/cards/write/index)
 
 ## 收录文章
 
