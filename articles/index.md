@@ -8,4 +8,5 @@
 - [如何运用反向思考力? 20200804](articles/20200804) | [#写作卡片](cards/write/index)
 - [如何用具体的东西表示抽象? 20200803](articles/20200803) | [#写作卡片](cards/write/index)
 - [如何使用精要主议指导生活 20200622](articles/20200622) | [#思维认知](cards/meta/index)
+- [卡片盒笔记法](articles/20200529) | [#技能卡片](cards/skill/index)
 - [6 个写作小套路? 20200515](articles/20200515) | [#写作卡片](cards/write/index)
