@@ -40,6 +40,7 @@
 - [如何用具体的东西表示抽象? 20200803](https://kapian.io/#/articles/20200803) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [如何阅读源码? 20200719](https://kapian.io/#/articles/20200719) | [#技术卡片](https://kapian.io/#/cards/tech/index)
 - [如何使用精要主义指导生活？20200623](https://kapian.io/#/articles/20200623) | [#思维认知](https://kapian.io/#/cards/meta/index)
+- [KANO 模型？20200611](https://kapian.io/#/articles/20200611) | [#产品卡片](https://kapian.io/#/cards/meta/index)
 - [卡片盒笔记法](https://kapian.io/#/articles/20200529) | [#技能卡片](https://kapian.io/#/cards/skill/index)
 - [平克写作八原则 | 砍掉元话语 20200517](https://kapian.io/#/articles/20200517) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [6 个写作小套路? 20200515](https://kapian.io/#/articles/20200515) | [#写作卡片](https://kapian.io/#/cards/write/index)
