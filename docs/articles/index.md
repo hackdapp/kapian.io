@@ -10,6 +10,7 @@
 - [如何用好语言的形容力? 20200802](articles/20200802) | [#写作卡片](cards/write/index)
 - [图像思考力? 20200801](articles/20200801) | [#认知卡片](cards/write/index)
 - [如何阅读源码? 20200719](articles/20200719) | [#技术卡片](cards/tech/index)
+- [如何面对枯燥的知识呢？20200720](articles/20200720.md) | [#思维认知](cards/meta/index)
 - [如何使用精要主议指导生活 20200622](articles/20200622) | [#思维认知](cards/meta/index)
 - [卡片盒笔记法](articles/20200529) | [#技能卡片](cards/skill/index)
 - [平克写作八原则（砍掉元话语）](articles/20200517) | [#写作卡片](cards/write/index)

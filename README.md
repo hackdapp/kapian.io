@@ -40,6 +40,7 @@
 - [如何用具体的东西表示抽象? 20200803](https://kapian.io/#/articles/20200803) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [如何用好语言的形容力? 20200802](https://kapian.io/#/articles/20200802) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [图形思考力? 20200801](https://kapian.io/#/articles/20200801) | [#认知卡片](https://kapian.io/#/cards/meta/index)
+- [如何面对枯燥的知识呢？20200720](https://kapian.io/#/articles/20200720.md) | [#思维认知](https://kapian.io/#/cards/meta/index)
 - [如何阅读源码? 20200719](https://kapian.io/#/articles/20200719) | [#技术卡片](https://kapian.io/#/cards/tech/index)
 - [如何一款好的监控系统? 20200718](https://kapian.io/#/articles/20200718) | [#技术卡片](https://kapian.io/#/cards/tech/index)
 - [如何使用精要主义指导生活？20200623](https://kapian.io/#/articles/20200623) | [#思维认知](https://kapian.io/#/cards/meta/index)
