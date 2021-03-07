@@ -40,6 +40,7 @@
 - [如何用具体的东西表示抽象? 20200803](https://kapian.io/#/articles/20200803) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [如何用好语言的形容力? 20200802](https://kapian.io/#/articles/20200802) | [#写作卡片](https://kapian.io/#/cards/write/index)
 - [图形思考力? 20200801](https://kapian.io/#/articles/20200801) | [#认知卡片](https://kapian.io/#/cards/meta/index)
+- [VIM 窗口操作](https://kapian.io/#/articles/20200725)[#技能卡片](https://kapian.io/#/cards/skill/index)
 - [VIM 文本查找替换](https://kapian.io/#/articles/20200724)[#技能卡片](https://kapian.io/#/cards/skill/index)
 - [VIM 光标移动](https://kapian.io/#/articles/20200721) | [#技能卡片](https://kapian.io/#/cards/skill/index)
 - [VIM 插入模式](https://kapian.io/#/articles/20200722) | [#技能卡片](https://kapian.io/#/cards/skill/index)
