@@ -6,3 +6,4 @@
 - [VIM 文本选择](articles/20200723)
 - [VIM 文本查找替换](articles/20200724)
 - [VIM 之窗口操作](articles/20200725)
+- [VIM 之文本编辑](articles/20200726)
