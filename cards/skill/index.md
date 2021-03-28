@@ -7,3 +7,5 @@
 - [VIM 文本查找替换](articles/20200724)
 - [VIM 之窗口操作](articles/20200725)
 - [VIM 之文本编辑](articles/20200726)
+- [VIM 之删除操作](articles/20200727)
+- [VIM 之视图模式](articles/20200729)
