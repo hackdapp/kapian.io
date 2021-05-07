@@ -54,6 +54,7 @@
 - [如何面对枯燥的知识呢？20200720](https://kapian.io/#/articles/20200720.md) | [#思维认知](https://kapian.io/#/cards/meta/index)
 - [如何阅读源码? 20200719](https://kapian.io/#/articles/20200719) | [#技术卡片](https://kapian.io/#/cards/tech/index)
 - [如何一款好的监控系统? 20200718](https://kapian.io/#/articles/20200718) | [#技术卡片](https://kapian.io/#/cards/tech/index)
+- [什么是知识、知识体系、知识管理](https://kapian.io/#/articles/20200624) | [#思维认知](https://kapian.io/#/cards/meta/index)
 - [如何使用精要主义指导生活？20200623](https://kapian.io/#/articles/20200623) | [#思维认知](https://kapian.io/#/cards/meta/index)
 - [KANO 模型？20200611](https://kapian.io/#/articles/20200611) | [#产品卡片](https://kapian.io/#/cards/meta/index)
 - [卡片盒笔记法](https://kapian.io/#/articles/20200529) | [#技能卡片](https://kapian.io/#/cards/skill/index)
